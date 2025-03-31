@@ -1,0 +1,107 @@
+\\air-auto1\c$\Program Files (x86)\Digispot II\AMPV_Europa_main\Djin\djin.exe 2.17.2.318
+\\air-auto1\c$\Program Files (x86)\Digispot II\AMPV_Retro_main\Djin\djin.exe 2.17.2.250
+\\air-auto1\c$\Program Files (x86)\Digispot II\DOROG-SAT\Djin\djin.exe 2.17.2.319
+\\air-auto1\c$\Program Files (x86)\Digispot II\Radio7_SAT\Djin\djin.exe 17.2.240.0
+\\air-auto2\c$\Program Files (x86)\Digispot II\AMPV_Europa_reserve\Djin\djin.exe 2.17.2.318
+\\air-auto2\c$\Program Files (x86)\Digispot II\AMPV_Retro_reserve\Djin\djin.exe 2.17.2.250
+\\air-auto2\c$\Program Files (x86)\Digispot II\DOROG-SAT\Djin\djin.exe 2.17.2.319
+\\air-auto2\c$\Program Files (x86)\Digispot II\Radio7_SAT\Djin\djin.exe 17.2.240.0
+\\air-stl-ddb\c$\Program Files (x86)\Digispot II\Europa\DDB\ddb.exe 2.17.2.318
+\\air-stl-ddb\c$\Program Files (x86)\Digispot II\Radio7\DDB\ddb.exe 17.2.240.0
+\\air-stl-ddb\c$\Program Files (x86)\Digispot II\Retro\DDB\ddb.exe 2.17.2.250
+\\guest-air-1\c$\Program Files (x86)\Digispot II\Dorognoe\Djin\djin.exe 2.17.2.319
+\\guest-air-1\c$\Program Files (x86)\Digispot II\Europa\Djin\djin.exe 2.17.2.318
+\\guest-air-1\c$\Program Files (x86)\Digispot II\Radio7\Djin\djin.exe 17.2.240.0
+\\guest-air-1\c$\Program Files (x86)\Digispot II\Retro\Djin\djin.exe 2.17.2.250
+\\dorog-air-1\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.319
+\\dorog-air-ddb\c$\Program Files\Digispot II\DDB2\DDB\ddb.exe 2.17.2.319
+\\dorog-air-ddb4\c$\Program Files (x86)\Digispot II\DDB\ddb.exe 2.17.2.319
+\\europa-air-2\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.318
+\\europa-air-5\c$\Program Files (x86)\Digispot II\Dorogn\Djin\djin.exe 2.17.2.319
+\\europa-air-5\c$\Program Files (x86)\Digispot II\Europa\Djin\djin.exe 2.17.2.318
+\\europa-vi-ctrl\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.278
+\\radio7-air-1\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\radio7-air-1\c$\Program Files (x86)\Digispot II\DJin-Radio7_TRAINING\DJin\djin.exe 17.2.175.0
+\\radio7-air-1\c$\Program Files (x86)\Digispot II\DJin-Radio7_TRAINING2\djin.exe 17.2.195.0
+\\radio7-air-1\c$\Program Files (x86)\Digispot II\DJin_Editor\DJin\djin.exe 17.0.166.0
+\\radio7-air-2\c$\Program Files (x86)\Digispot II\DJin-radio7\Djin\djin.exe 17.2.240.0
+\\radio7-air-2\c$\Program Files (x86)\Digispot II\DJin-radio7_TRAINING\DJin\djin.exe 17.2.195.0
+\\radio7-air-2\c$\Program Files (x86)\Digispot II\Dorognoe\DJin\djin.exe 16.3.72.0
+\\radio7-air-2\c$\Program Files (x86)\Digispot II\Retro\Djin\djin.exe 17.0.106.0
+\\retro-air-1\c$\Program Files (x86)\Digispot II\Europa\DJin\djin.exe 16.3.45.0
+\\retro-air-1\c$\Program Files (x86)\Digispot II\Retro\DJin\djin.exe 2.17.2.250
+\\retro-air-1\c$\Program Files (x86)\Digispot II\Retro\DJin-TRAINING\djin.exe 2.17.2.250
+\\retro-air-1\c$\Program Files (x86)\Digispot II\Radio7\DJin\djin.exe 2.16.2.37
+\\retro-air-2\c$\Program Files (x86)\Digispot II\Retro\DJin\djin.exe 2.17.2.250
+\\server-moscow\c$\Program Files\Digispot II\DJin\djin.exe 2.17.2.319
+\\guest-vi-ctrl\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.318
+\\europa-air-fs\c$\Program Files (x86)\Digispot II\DJin_repl_europa\djin.exe 2.17.2.318
+\\retro-air-fs\c$\Program Files (x86)\Digispot II\DJin_Repl_Retro\djin.exe 2.17.2.250
+\\radio7-air-fs\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\air-inet1\c$\Program Files (x86)\Digispot II\4ch-EP\DJin\djin.exe 2.17.2.318
+\\air-inet1\c$\Program Files (x86)\Digispot II\Retro-Internet (3 Ch)\Djin\djin.exe 2.17.2.250
+\\air-inet1\c$\Program Files (x86)\Digispot II\Dorognoe-inet\DJin\djin.exe 2.17.2.319
+\\air-inet2\c$\Program Files (x86)\Digispot II\4ch-EP\DJin\djin.exe 2.17.2.318
+\\air-inet2\c$\Program Files (x86)\Digispot II\Retro-Internet (3 Ch)\DJin\djin.exe 2.17.2.250
+\\air-inet2\c$\Program Files (x86)\Digispot II\GOLD\DJin\djin.exe 17.0.166.0
+\\air-inet2\c$\Program Files (x86)\Digispot II\Dorognoe-inet\DJin\djin.exe 2.17.2.319
+\\europa-dj3\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.318
+\\europa-dj3\c$\Program Files (x86)\Digispot II\Mag\mag2.exe 2.17.2.318
+\\europa-rd\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\europa-rd\c$\Program Files (x86)\Digispot II\Mag\mag2.exe 2.17.2.318
+\\europa-zs\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\europa-zs\c$\Program Files (x86)\Digispot II\Djin2\djin.exe 2.17.2.318
+\\eur-prod4\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\eur-prod7\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\eur-prod8\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\europa-as\c$\Program Files (x86)\DIGISPOT II\DJin\djin.exe 2.17.2.318
+\\europa-as\c$\Program Files (x86)\Digispot 3 Njm\DJin\djin.exe 17.0.205.0
+\\europa-mk\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\europa-mk\c$\Program Files (x86)\Digispot II\Mag\mag2.exe 2.17.2.318
+\\europa-yp\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.318
+\\europa-yp\c$\Program Files (x86)\Digispot II\Mag\mag2.exe 2.17.2.318
+\\europa-bs\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\europa-air-gsel\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.318
+\\europa-air-gsel\c$\Program Files (x86)\Digispot II\Djin-EP\djin.exe 2.17.2.318
+\\retro-gd\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.250
+\\retro-gd\c$\Program Files (x86)\Digispot II\Mag\mag2.exe 2.17.2.250
+\\retro-muz-ma\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.250
+\\retro-muz-ma\c$\Program Files (x86)\Digispot II\Mag\mag2.exe 17.2.195.0
+\\retro-muz-ma\c$\Program Files (x86)\Digispot II\DDB\ddb.exe 17.0.136.0
+\\retro-prod-dl\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.250
+\\retro-prod12\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.250
+\\retro-prod3\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.250
+\\retro-book\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.250
+\\radio7-bv\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\radio7-prod88\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\radio7-prod\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\radio7-ph\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\radio7-dj1\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.218.0
+\\radio7-prod4\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\dir-ar\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.240.0
+\\dor-fv-vm\c$\Program Files (x86)\Digispot II\DJin\djin.exe 2.17.2.306
+\\dor-fv-vm\c$\Program Files (x86)\Digispot II\Djinn\djin.exe 2.17.2.319
+\\dor-ma\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.0.139.0
+\\dor-ma\c$\Program Files (x86)\Digispot II\DJin2\djin.exe 15.37.465.0
+\\dor-red-efir-1\c$\Program Files (x86)\DIGISPOT II\Djin\djin.exe 2.17.2.319
+\\dor-red-efir-1\c$\Program Files (x86)\DIGISPOT II\Djin M+MO\DJin\djin.exe 2.17.2.319
+\\dor-red-efir-1\c$\Program Files (x86)\DIGISPOT II\Djin SPB+MSK+SAT\DJin\djin.exe 17.2.179.0
+\\dor-stud-3\c$\Program Files (x86)\Digispot II\DJin\djin.exe 17.2.175.0
+\\dor-sk\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.319
+\\dor-sk\c$\Program Files (x86)\Digispot II\Djin1\djin.exe 16.3.113.0
+\\dor-ve\c$\Program Files (x86)\DIGISPOT II\Djin\djin.exe 2.17.2.319
+\\dorognoe-md\c$\Program Files (x86)\Digispot II\Djin\djin.exe 2.17.2.319
+\\dor-ve\c$\Program Files (x86)\DIGISPOT II\MediaPlanner\mediaplanner.exe 2.17.2.319
+\\comm-traf-ar\c$\Program Files\Digispot II\UDL\MediaPlanner\mediaplanner.exe 2.17.2.319
+\\comm-traf-ar\c$\Program Files\Digispot II\UDM\Mediaplanner\mediaplanner.exe 2.17.2.319
+\\comm-traf-to\c$\Program Files\Digispot II\MP_RETRO\Mediaplanner\mediaplanner.exe 2.17.2.250
+\\comm-traf-to\c$\Program Files\Digispot II\MP_UDL\MediaPlanner\mediaplanner.exe 2.17.2.319
+\\comm-traf-to\c$\Program Files\Digispot II\MP_UDL\MP_NEW\MediaPlanner\mediaplanner.exe 2.17.2.299
+\\comm-traf-to\c$\Program Files\Digispot II\MP_UDM\MediaPlanner\mediaplanner.exe 2.17.2.319
+\\comm-traf-so\c$\Program Files\Digispot II\DJin\djin.exe 16.2.68.0
+\\comm-traf-so\c$\Program Files\Digispot II\DJin-S21\djin.exe 17.0.86.0
+\\comm-traf-so\c$\Program Files\Digispot II\MediaPlanner\mediaplanner.exe 354.1.0.0
+\\region-ia\c$\Program Files (x86)\DIGISPOT II\Djin\djin.exe 2.17.2.319
+\\region-ia\c$\Program Files (x86)\DIGISPOT II\Djin_Dorognoe\DIGISPOT II\DJin\djin.exe 2.17.2.306
+\\region-ia\c$\Program Files (x86)\DIGISPOT II\Djin_Radio7\DIGISPOT II\DJin\djin.exe 2.17.2.251
+\\region-ia\c$\Program Files (x86)\DIGISPOT II\Djin_Retro\DJin\djin.exe 2.17.2.250
